@@ -31,7 +31,7 @@ Meanwhile, on the digital landscapes of game development, I leverage C++'s power
 
 </br>
 
-<div> 
+<div align ="center"> 
 <h3 align="center">
 Web Dev
 </h3>
