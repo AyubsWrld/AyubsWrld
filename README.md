@@ -27,7 +27,6 @@ Meanwhile, on the digital landscapes of game development, I leverage C++'s power
 
 ## 💼 Technical Skills
 
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=00599C)
 
 </br>
 
@@ -42,11 +41,13 @@ Web Dev
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=61DAFB&color=20232A)
 
 </br>
+</div>
 
+<div align ="center"> 
 <h3 align="center">
 Game Dev
 </h3>
-</div> 
+
 
 
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=00599C)
@@ -54,5 +55,6 @@ Game Dev
 ![](https://img.shields.io/badge/Engine-Unreal-informational?style=flat&logo=unreal-engine&logoColor=white&color=0E1128)
 ![](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=239120)
 ![](https://img.shields.io/badge/Tool-Blender-informational?style=flat&logo=blender&logoColor=white&color=F5792A)
+</div>
 
 
