@@ -31,22 +31,23 @@ Meanwhile, on the digital landscapes of game development, I leverage C++'s power
 
 </br>
 
+<div> 
 <h3 align="center">
 Web Dev
 </h3>
 
-<div align = "center"> 
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=E34F26)
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=1572B6)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=black&color=F7DF1E)
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=61DAFB&color=20232A)
-</div> 
 
 </br>
 
 <h3 align="center">
 Game Dev
 </h3>
+</div> 
+
 
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=00599C)
 ![](https://img.shields.io/badge/Engine-Unity-informational?style=flat&logo=unity&logoColor=white&color=000000)
