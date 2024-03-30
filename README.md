@@ -21,7 +21,7 @@ Meanwhile, on the digital landscapes of game development, I leverage C++'s power
 
 ## 🔭 I'm currently working on
 
-- Psuedo Prosthethic Eye Utilizing Computer Vision
+- Bionic Eye Utilizing Computer Vision
 - Frame (VIDEO GAME) 
 
 
