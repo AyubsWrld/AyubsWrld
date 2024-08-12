@@ -22,7 +22,7 @@ Meanwhile, on the digital landscapes of game development, I leverage C++'s power
 ## 🔭 I'm currently working on
 
 - Bionic Eye Utilizing Computer Vision
-- Frame (VIDEO GAME) 
+- Graphite : External Bluetooth Hardrive
 
 
 ## 💼 Technical Skills
