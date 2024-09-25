@@ -3,7 +3,7 @@ Hi there, I'm Ayub👋
 </h3>
 
 <h2 align="center">
-Im a developer with a keen interest in embedded systems, game developement , and web developement . 🎨!
+I make stuff 
 </h2> 
 
 Embedded Systems
