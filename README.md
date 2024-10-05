@@ -9,8 +9,8 @@ I make stuff
 Embedded Systems
 In the realm of embedded systems, I marvel at how code interlaces with electronics to create intelligent machine behavior. Here, you'll find my projects and experiments that range from simple blinky LEDs to more complex IoT integrations and real-time data processing.
 
-Game Development
-Meanwhile, on the digital landscapes of game development, I leverage C++'s power to push the limits of story-telling, graphics rendering, and gameplay mechanics. This repository showcases my contributions to game projects, custom engines, and the occasional game jam adventure.
+Frontend Development
+Meanwhile, in the realm of 3D frontend development, I leverage modern web technologies like React and Three.js to create visually immersive, interactive experiences. This repository showcases my work on dynamic user interfaces, real-time 3D rendering, and the seamless fusion of design and functionality, bringing a new depth to web-based applications.
 
 ### 🤝 Connect with me:
 
