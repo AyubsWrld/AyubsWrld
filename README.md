@@ -51,7 +51,6 @@ Game Dev
 
 
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=00599C)
-![](https://img.shields.io/badge/Engine-Unity-informational?style=flat&logo=unity&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/Engine-Unreal-informational?style=flat&logo=unreal-engine&logoColor=white&color=0E1128)
 ![](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=239120)
 ![](https://img.shields.io/badge/Tool-Blender-informational?style=flat&logo=blender&logoColor=white&color=F5792A)
