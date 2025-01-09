@@ -21,8 +21,8 @@ Meanwhile, in the realm of 3D frontend development, I leverage modern web techno
 
 ## 🔭 I'm currently working on
 
-- Bionic Eye Utilizing Computer Vision
-- Graphite : External Bluetooth Hardrive
+- Keeper : Cross platform student monitoring app ( Android / iOS ) 
+- Graphite : External Wireless Hardrive Utilizing ESP32 & Non-Volatile Storage
 
 
 ## 💼 Technical Skills
