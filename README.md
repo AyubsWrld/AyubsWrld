@@ -1,4 +1,4 @@
-<img src="22.gif" width="100%" height="100px"/>
+<img src="22.gif" width="100%" height="100px" object-fit="cover"/>
 
 <h3 align="center">
 Hi there, I'm Ayub👋
