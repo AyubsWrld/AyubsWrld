@@ -1,4 +1,4 @@
-![](22.gif)
+
 <img src="22.gif" style="width: 100%; display: block; margin: 0 auto;" />
 <h3 align="center">
 Hi there, I'm Ayub👋
