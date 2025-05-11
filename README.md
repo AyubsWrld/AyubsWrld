@@ -9,18 +9,6 @@ Hi there
 I make stuff 
 </h2> 
 
-### 🤝 Connect with me:
-
-<a href="https://www.linkedin.com/in/ayub-mohamed-89781b285/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-<a href="https://www.instagram.com/capocantcode/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
-</br>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
-
-## 🔭 I'm currently working on
-
-- Keeper : Cross platform student monitoring app ( Android / iOS ) 
-- Graphite : External Wireless Hardrive Utilizing ESP32 & Non-Volatile Storage
-
 
 ## 💼 Technical Skills
 
